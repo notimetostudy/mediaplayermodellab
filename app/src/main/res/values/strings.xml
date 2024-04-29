@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mediaplayermodellab</string>
+    <string name="media_controller_2" />
+    <string name="record" />
+    <string name="playback" />
+    <string name="exit" />
+</resources>
